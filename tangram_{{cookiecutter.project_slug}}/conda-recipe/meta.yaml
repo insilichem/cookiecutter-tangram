@@ -20,7 +20,7 @@ requirements:
 about:
   home: http://github.com/insilichem/tangram_{{cookiecutter.project_slug}}
   license: {{cookiecutter.open_source_license}}
-  license_family: {{cookiecutter.open_source_license}}
+  license_family: {{cookiecutter.open_source_license_family}}
 
   summary: '{{cookiecutter.project_description}}'
 
